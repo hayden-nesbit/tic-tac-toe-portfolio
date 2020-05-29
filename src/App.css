@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+#grid{
+  min-height: 125px;
+  min-width:125px;
+  max-width: 125px;
+}
+
+.row {
+  min-width: 450px;
+}
+
